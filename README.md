@@ -4,7 +4,7 @@ This repository contains a data set for human activity recognition
 # Information about the dataset
 This dataset was created in the course of a research project to make human activity recongition (HAR) suitable for heart rate variability (HRV) measurements. Detailed info provided in the follwoing publication (Link, link will provided after successful publication ;) )
 
-Data was measured between June 2021 and September 2021. Subjects wore a Suunto Movesense HR belt around the chest and perfomed the activities walking, running, sitting, standing, lying and pc work. Data was sampled at 52 Hz for around three minutes. Measurements were conducted in various conditions: indoor, outdor, with and without supervision. (Information about those conditions will be added to the dataset) Detailed information about sex, age, etc. are provided in the table.
+Data was measured between June 2021 and September 2021. Subjects wore a Suunto Movesense HR belt around the chest and perfomed the activities walking, running, sitting, standing, lying and pc work. Data was sampled at 52 Hz for around three minutes per subject. Measurements were conducted in various conditions: indoor, outdor, with and without supervision. (Information about those conditions will be added to the dataset) Detailed information about sex, age, etc. are provided in the table.
 
 # Description of dataset (pkl)
 Filename: Loki_dataset.pkl (pandas pickle file format)
